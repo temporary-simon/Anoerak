@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 [![Anoerak's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Anoerak&count_private=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Anoerak/github-readme-stats#gh-light-mode-only)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anoerak&layout=compact)](https://github.com/Anoerak/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anoerak&layout=compact&langs_count=8)](https://github.com/Anoerak/github-readme-stats)
