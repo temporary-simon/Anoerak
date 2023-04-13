@@ -118,6 +118,7 @@ const subjectsActuallyStudied = () => {
         ) : (
           <div className="cards">
             {listOfSubjects.map((place) => (
+		// You got it, I try to get better with React, Next and Solid JS
               <Link to={`/details/${subject.id}`} key={subject.id}>
                 <Card id={subject.id} name={subject.title} picture={subject.emote} />
               </Link>
@@ -137,7 +138,7 @@ const subjectsActuallyStudied = () => {
 ### <img src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" width="50"> A little more about what I aim for...  
 
 ````php
-<? php
+<?php
 
 namespace App\Anørak;
 
@@ -163,9 +164,25 @@ class Goals extends Me
       'workplace' => [
         'company' => 'Maybe yours!!!',
         'position' => 'Let\'s talk about it',
-        'salary' => 'The right amount for the position'
-      ]
+        'salary' => 'The right amount for the right position'
+      ],
+	  'location' => [
+	  	'Worldwide' => 'Anywhere as long as we can work fully remotely',
+		'Stockholm' => 'Hybrid if remote 3 to 4 days a week, otherwise full remote',
+		'Montreal or Quebec' => 'Hybrid if remote 3 to 4 days a week, otherwise full remote'
+	  ]
     ];
+  }
+  
+  public function enjoyMyfamily(): array
+  {
+  	return [
+		'What I mean' => 'As a father since october 2022, I intend to see my son growing up and spend as much time as I can with 
+		him and his mother. COVID-19 taught us that we don\'t need to spend hours commuting, gathering in offices to do the exact 
+		same thing we can do from home.',
+		'What it means' => 'As mentioned in the desired locations for my future job, I\'ll consider a position only if we can work 
+		remotely.'
+	]
   }
 }
 ````
