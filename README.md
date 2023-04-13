@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anoerak&layout=compact&langs_count=8)](https://github.com/Anoerak/github-readme-stats)
+
+
+[![Anoerak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Anoerak)](https://github.com/anuraghazra/github-readme-stats)
