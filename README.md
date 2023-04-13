@@ -1,25 +1,187 @@
-### Hi there 👋
+<img align='left' src="https://media.giphy.com/media/D2j3xOKq0O0qQ8BOVC/giphy.gif" width="150">
 
-<!--
-**Anoerak/Anoerak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br><br><br><br>
 
-Here are some ideas to get you started:
--->
+<h2>
+  Hi,
+  I'm Sebastien! 
+</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)
+![forthebadge](https://forthebadge.com/images/badges/built-with-grammas-recipe.svg)
+![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)
+![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)
 
-[![Anoerak's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Anoerak&count_private=true&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/Anoerak/github-readme-stats#gh-dark-mode-only)
-[![Anoerak's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Anoerak&count_private=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Anoerak/github-readme-stats#gh-light-mode-only)
+<img align='right' src="https://media.giphy.com/media/8m4gPv1UFz1jmiCtKd/giphy.gif" width="180">
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anoerak&layout=compact&langs_count=8)](https://github.com/Anoerak/github-readme-stats)
+<br>
 
 
-[![Anoerak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Anoerak)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <em>
+    Student at <a href="https://openclassrooms.com/">OpenClassrooms</a><img src="https://media.giphy.com/media/XuBtcsV266vepmoEYG/giphy.gif" width="50">
+    <br>
+    Web Developer at <a href="https://iamseb.dev">IamSeb.dev</a><img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="50">
+  </em>
+</p>
+
+
+<br><br><br><br>
+
+
+<picture>
+  <img align='left' src="https://github-readme-stats.vercel.app/api?username=Anoerak&count_private=true&show_icons=true&theme=radical" />
+</picture>
+<picture>
+  <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anoerak&layout=compact&langs_count=8"/>
+</picture>
+
+
+<br><br><br><br><br><br><br><br><br><br>
+
+
+### <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50"> A little more about me...  
+
+````javascript
+const Anørak = {
+  pronouns: "he" | "his",
+  languages: [HTML5, Twig, CSS3, SCSS, JavaScript, PHP, MySQL],
+  frameworks: [React.JS, Vue.JS, Solid.JS, Symfony],
+  librairies: [Redux, Bootstrap, Bulma, Chart.JS...],
+  workInProgress: "Nailing the unit test with PHPUnit!!"
+  }
+````
+
+
+<br><br>
+
+
+### <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50"> A little more about my story...
+
+````javascript
+class AnørakModel {
+  constructor(anørak) {
+    this._pronouns = anørak.pronouns;
+    this._languages = anørak.languages;
+    this._frameworks = anørak.frameworks;
+    this._librairies = anørak.librairies;
+    this._workInProgress = anørak.workInProgres;
+    this._story = {};
+  }
+  
+  set story() {
+    this._story = {
+      "previous_experiences" = {
+        "2002 - 2016" = "A long carrier into logistics and sales for several french fret companies such as STG, STEF or MADRIAS.",
+        "2016 - 2018" = "2 years as a yoga teacher based in St Louis, MO, USA",
+        "2018 - 2022" = "4 years as France sales manager for a veterinarian laboratory",
+        "2021" = "In parallel with my job at the time as a national sales manager, I started a program with OpenClassrooms in order to get an official certifiation as a web developer (HTML, CSS, Node, MySQL, Vue). Done in 4 months instead of 6 as planned by OpenClassrooms.",
+        "2022" = "I quit my job and start another training with OpenClassrooms in order to get a certification as an advanced JS & React web application developer. I managed to validate all the projects in about 5 and 1/2 months instead of 12 and use the extra time to do all the projects of the PHP & Symfony Web Developer program (a total different 12 months program). Today, I'm about to officially follow the PHP & Symfony program and use the extra time to study others languages, frameworks, librairies and get a job!!!"
+      }
+    }
+  }
+}
+````
+
+
+<br><br>
+
+
+### <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50"> A little more about what I'm studying at the moment... 
+
+````jsx
+const subjectsActuallyStudied = () => {
+  const {data, loading, isError, errorMessage} = useFetch('./anørak.json');
+  const subjects = data;
+  const error = errorMessage;
+  
+  return (
+    <div className="main">
+      <div className="home_content">
+        {isError ? (
+          <div className="error">
+            Something went wrong : <br /> {error && error}
+          </div>
+        ) : loading ? (
+          <Loader />
+        ) : (
+          <div className="cards">
+            {listOfSubjects.map((place) => (
+              <Link to={`/details/${subject.id}`} key={subject.id}>
+                <Card id={subject.id} name={subject.title} picture={subject.emote} />
+              </Link>
+            ))}
+          </div>
+        )}
+      </div>
+    </div>
+	);
+}
+````
+
+
+<br><br>
+
+
+### <img src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" width="50"> A little more about what I aim for...  
+
+````php
+<? php
+
+namespace App\Anørak;
+
+use App\Entity\Story;
+
+class Goals extends Me
+{
+  private $story;
+  
+  public function __construct()
+  {
+    $this->story = new Story;
+  }
+  
+  public function communicateAboutMyStory(): object
+  {
+    return $this->story;
+  }
+  
+  public function getAJob(): array
+  {
+    return [
+      'workplace' => [
+        'company' => 'Maybe yours!!!',
+        'position' => 'Let\'s talk about it',
+        'salary' => 'The right amount for the position'
+      ]
+    ];
+  }
+}
+````
+
+
+<br><br>
+
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anoerak&theme=nord&column=7)](https://github.com/Anoerak/github-profile-trophy)
+
+
+<br><br>
+
+
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/Anoerak/SnowTricks">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anoerak&repo=SnowTricks&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="SnowTricks" />
+</a>
+
+<a href="https://github.com/Anoerak/Proust_Sebastien_P12_23092022">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anoerak&repo=Proust_Sebastien_P12_23092022&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Proust_Sebastien_P12_23092022" />
+</a>
+
+<a href="https://github.com/Anoerak/Proust_Sebastien_P6_13072022">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anoerak&repo=Proust_Sebastien_P6_13072022&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Proust_Sebastien_P6_13072022" />
+</a>
