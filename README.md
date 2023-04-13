@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 [![Anoerak's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Anoerak&count_private=true&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/Anoerak/github-readme-stats#gh-dark-mode-only)
 [![Anoerak's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Anoerak&count_private=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Anoerak/github-readme-stats#gh-light-mode-only)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anoerak&layout=compact)](https://github.com/Anoerak/github-readme-stats)
