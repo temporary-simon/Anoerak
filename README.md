@@ -1,3 +1,6 @@
+<picture>
+  <img align='right' src="https://streak-stats.demolab.com?user=Anoerak&theme=dark&mode=weekly" height="150"/>
+</picture>
 <img align='left' src="https://media.giphy.com/media/D2j3xOKq0O0qQ8BOVC/giphy.gif" width="150">
 
 <br><br><br><br>
@@ -6,6 +9,8 @@
   Hi,
   I'm Sebastien! 
 </h2>
+
+<br><br>
 
 ![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)
 ![forthebadge](https://forthebadge.com/images/badges/built-with-grammas-recipe.svg)
