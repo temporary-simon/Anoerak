@@ -149,7 +149,7 @@ namespace App\Anørak;
 
 use App\Entity\Story;
 
-class Goals extends Me
+class Me implments Goals
 {
   private $story;
   
