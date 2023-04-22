@@ -195,7 +195,7 @@ class Me implements Goals
     return [
       'Yoga' => 'Since 2012, I practice at least 3 times a week and teach AcroYoga every Tuesday evening.',
       'Hiking' => 'Once a week, we go for a hike. We long for something different every week if possible and really look forward for this family time.'
-      'Video Games' => 'I\'ve been playing videos games since my parents brought back home our first Amstrad 6128+... Yup, I\'m that old :). Since then, I\'ve been playing mostly on console but I\'ve switched to 
+      'Video Games' => 'I\'ve been playing videos games since my parents brought back home our first Amstrad 6128+!! Yup, I\'m that old :). Since then, I\'ve been playing mostly on console but I\'ve switched to 
        PC in 2021 and enjoy it a lot. I play all sort of games but at the moment, I play a lot of DayZ, The Last of Us and Hunt:Showdown.'
     ];
   }
