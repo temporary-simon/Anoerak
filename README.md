@@ -182,21 +182,22 @@ class Me implements Goals
   public function enjoyMyfamily(): array
   {
   	return [
-		'Yoga' => 'Since 2012, I practice at least 3 times a week and teach AcroYoga every Tuesday evening.',
-		'Hiking' => 'Once a week, we go for a hike. We long for something different every week if possible and really look forward for this family time.'
-                'Video Games' => 'I've been playing videos games since my parents brought back home our first Amstrad 6128+... Yup, I'm that old :). Since then, I've been playing mostly on console but I've switched to 
-                 PC in 2021 and enjoy it a lot. I play all sort of game even if right now, I'm playing a lot of DayZ, The Last of Us and Hunt:Showdown.'
-	]
-  }
-  public function practiceHobbies(): array
-  {
-  	return [
 		'What I mean' => 'As a father since october 2022, I intend to see my son growing up and spend as much time as I can with 
 		him and his mother. COVID-19 taught us that we don\'t need to spend hours commuting, gathering in offices to do the exact 
 		same thing we can do from home.',
 		'What it means' => 'As mentioned in the desired locations for my future job, I\'ll consider a position only if we can work 
 		remotely.'
-	]
+	];
+  }
+
+  public function practiceHobbies(): array
+  {
+        return [
+		'Yoga' => 'Since 2012, I practice at least 3 times a week and teach AcroYoga every Tuesday evening.',
+		'Hiking' => 'Once a week, we go for a hike. We long for something different every week if possible and really look forward for this family time.'
+                'Video Games' => 'I've been playing videos games since my parents brought back home our first Amstrad 6128+... Yup, I'm that old :). Since then, I've been playing mostly on console but I've switched to 
+                 PC in 2021 and enjoy it a lot. I play all sort of game even if right now, I'm playing a lot of DayZ, The Last of Us and Hunt:Showdown.'
+	];
   }
 }
 ````
