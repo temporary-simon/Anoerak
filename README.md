@@ -87,11 +87,11 @@ const story = [
 			'2021': 'In parallel with my job at the time as a national sales manager, I started a program with OpenClassrooms in order 
 			to get an official certifiation as a web developer (HTML, CSS, Node, MySQL, Vue). Done in 4 months instead of 6 as 
 			planned by OpenClassrooms.',
-			'2022': "I quit my job and start another training with OpenClassrooms in order to get a certification as an advanced JS & 
+			'2022': 'I quit my job and start another training with OpenClassrooms in order to get a certification as an advanced JS & 
 			React web application developer. I managed to validate all the projects in about 5 and 1/2 months instead of 12 and 
 			use the extra time to do all the projects of the PHP & Symfony Web Developer program (a total different 12 months program). 
-			Today, I'm about to officially follow the PHP & Symfony program and use the extra time to study others languages, frameworks, 
-			librairies and get a job!!!",
+			Today, I\'m about to officially follow the PHP & Symfony program and use the extra time to study others languages, frameworks, 
+			librairies and get a job!!!',
 		},
 	},
 ];
@@ -181,23 +181,23 @@ class Me implements Goals
   
   public function enjoyMyfamily(): array
   {
-  	return [
-		'What I mean' => 'As a father since october 2022, I intend to see my son growing up and spend as much time as I can with 
-		him and his mother. COVID-19 taught us that we don\'t need to spend hours commuting, gathering in offices to do the exact 
-		same thing we can do from home.',
-		'What it means' => 'As mentioned in the desired locations for my future job, I\'ll consider a position only if we can work 
-		remotely.'
-	];
+    return [
+      'What I mean' => 'As a father since october 2022, I intend to see my son growing up and spend as much time as I can with 
+       him and his mother. COVID-19 taught us that we don\'t need to spend hours commuting, gathering in offices to do the exact 
+       same thing we can do from home.',
+      'What it means' => 'As mentioned in the desired locations for my future job, I\'ll consider a position only if we can work 
+       remotely.'
+    ];
   }
 
   public function practiceHobbies(): array
   {
-        return [
-		'Yoga' => 'Since 2012, I practice at least 3 times a week and teach AcroYoga every Tuesday evening.',
-		'Hiking' => 'Once a week, we go for a hike. We long for something different every week if possible and really look forward for this family time.'
-                'Video Games' => 'I've been playing videos games since my parents brought back home our first Amstrad 6128+... Yup, I'm that old :). Since then, I've been playing mostly on console but I've switched to 
-                 PC in 2021 and enjoy it a lot. I play all sort of game even if right now, I'm playing a lot of DayZ, The Last of Us and Hunt:Showdown.'
-	];
+    return [
+      'Yoga' => 'Since 2012, I practice at least 3 times a week and teach AcroYoga every Tuesday evening.',
+      'Hiking' => 'Once a week, we go for a hike. We long for something different every week if possible and really look forward for this family time.'
+      'Video Games' => 'I\'ve been playing videos games since my parents brought back home our first Amstrad 6128+... Yup, I\'m that old :). Since then, I\'ve been playing mostly on console but I\'ve switched to 
+       PC in 2021 and enjoy it a lot. I play all sort of games but at the moment, I play a lot of DayZ, The Last of Us and Hunt:Showdown.'
+    ];
   }
 }
 ````
