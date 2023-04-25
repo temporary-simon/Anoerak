@@ -186,7 +186,9 @@ class Me implements Goals
        him and his mother. COVID-19 taught us that we don\'t need to spend hours commuting, gathering in offices to do the exact 
        same thing we can do from home.',
       'What it means' => 'As mentioned in the desired locations for my future job, I\'ll consider a position only if we can work 
-       remotely.'
+       remotely.',
+       'What I'm doing at the moment' => 'Since October 2022, I take care of my new-born while studying in order to get my certifications.
+       I also keep an eye open on the job market and every new tech that could be a great add-on to my stack.'
     ];
   }
 
