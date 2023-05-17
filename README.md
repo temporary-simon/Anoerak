@@ -5,7 +5,7 @@
 
 <br><br><br><br>
 
-<h2 lign='left'>
+<h2 align='left'>
   Hi,
   I'm Sebastien! 
 </h2>
