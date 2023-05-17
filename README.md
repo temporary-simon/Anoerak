@@ -1,9 +1,8 @@
 <picture>
   	<img align='right' src="https://streak-stats.demolab.com?user=Anoerak&theme=dark&mode=weekly" height="150"/>
 </picture>
-<picture>
-	<img align='left' src="https://media.giphy.com/media/D2j3xOKq0O0qQ8BOVC/giphy.gif" width="150">
-</picture>
+
+<img align='left' src="https://media.giphy.com/media/D2j3xOKq0O0qQ8BOVC/giphy.gif" width="150">
 
 <br><br>
 <br><br>
