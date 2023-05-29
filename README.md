@@ -224,17 +224,17 @@ class Me implements Goals
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/Anoerak/ToDo-Co">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anoerak&repo=ToDo-Co&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ToDo-Co" />
+  <img align="center" src="https://github-readme-stats-git-main-anoerak.vercel.app/api/pin/?username=Anoerak&repo=ToDo-Co&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ToDo-Co" />
 </a>
 
 <a href="https://github.com/Anoerak/SnowTricks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anoerak&repo=SnowTricks&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="SnowTricks" />
+  <img align="center" src="https://github-readme-stats-git-main-anoerak.vercel.app/api/pin/?username=Anoerak&repo=SnowTricks&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="SnowTricks" />
 </a>
 
 <a href="https://github.com/Anoerak/Proust_Sebastien_P12_23092022">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anoerak&repo=Proust_Sebastien_P12_23092022&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Proust_Sebastien_P12_23092022" />
+  <img align="center" src="https://github-readme-stats-git-main-anoerak.vercel.app/api/pin/?username=Anoerak&repo=Proust_Sebastien_P12_23092022&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Proust_Sebastien_P12_23092022" />
 </a>
 
 <a href="https://github.com/Anoerak/Proust_Sebastien_P6_13072022">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anoerak&repo=Proust_Sebastien_P6_13072022&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Proust_Sebastien_P6_13072022" />
+  <img align="center" src="https://github-readme-stats-git-main-anoerak.vercel.app/api/pin/?username=Anoerak&repo=Proust_Sebastien_P6_13072022&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Proust_Sebastien_P6_13072022" />
 </a>
