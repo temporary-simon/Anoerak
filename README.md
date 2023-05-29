@@ -41,7 +41,7 @@
   <img align='left' src="https://github-readme-stats-git-main-anoerak.vercel.app/api?username=Anoerak&count_private=true&show_icons=true&theme=radical" />
 </picture>
 <picture>
-  <img align='right' src="https://github-readme-stats-git-main-anoerak.vercel.app/api/top-langs/?username=Anoerak&layout=compact&langs_count=8&PAT_1=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"/>
+  <img align='right' src="https://github-readme-stats-git-main-anoerak.vercel.app/api/top-langs/?username=Anoerak&layout=compact&langs_count=8&hide=html"/>
 </picture>
 
 
